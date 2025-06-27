@@ -10,6 +10,7 @@ This repository documents my structured learning journey through the requirement
 
 
 |Information Gathering| This process deals with identifying potential stakeholders of the software and gathering the relavant information required to implement the software successfully|
+|---------------|--------------|
 |Requirent Elicitation| This is where the team gathers detailed infirmation about the software's needs. They may so so by interviews, questionnaires or any other form of information gathering resource.| 
 |Requirement Documentation| This third step puts together a detailed record of information acquired during the previous step. The team usually creates a document called the SRS(Software Requirement Specifications) to derve asa guide for everyone in the process.|
 |Requirement Analysis| The fourth step is where the team checs for feasibility, consistency, conplexity, and cfiniteness of the software. The goal is to finalize a set of requirements that is achievable and aligns with the overall objectives of the project.|
