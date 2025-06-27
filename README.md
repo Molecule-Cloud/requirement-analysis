@@ -28,7 +28,7 @@ This repository documents my structured learning journey through the requirement
 ## Types of Requirements
 
 ### Functional Requirements
-* Funtional Requirements are product features that developers are required to implement to achieve their goals
+Functional Requirements are product features that developers are required to implement to achieve their goals \n
 **Examples**
 * **Manager's Portal**: The hotel managers must have a separate portal from where they can manage their hotel's related information, access data and update it.
 * **User Registration**: New Users should be able to create an account susscessfully.
@@ -40,7 +40,7 @@ This repository documents my structured learning journey through the requirement
 
 
 ### Non-Functional Requirements
-* Non-Functional Requirements define system atributes like performance, security, speed and userbility.
+Non-Functional Requirements define system atributes like performance, security, speed and userbility.
 **Examples**
 * **Performance**: The system should be able to handle 10,000 concurrent users at a time.
 * **Security**: Details like user password should be encrypted
