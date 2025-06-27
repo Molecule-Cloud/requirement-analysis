@@ -24,3 +24,26 @@ This repository documents my structured learning journey through the requirement
 |Requirement Documentation| This third step puts together a detailed record of information acquired during the previous step. The team usually creates a document called the SRS(Software Requirement Specifications) to derve asa guide for everyone in the process.|
 |Requirement Analysis| The fourth step is where the team checs for feasibility, consistency, conplexity, and cfiniteness of the software. The goal is to finalize a set of requirements that is achievable and aligns with the overall objectives of the project.|
 |Validation and Verification| This final step is where the team comes together to confirm that the requirements actually meet the needs of the stakeholders and verifies that the requirements are documented clearly and consistently.|
+
+## Types of Requirements
+
+### Functional Requirements
+* Funtional Requirements are product features that developers are required to implement to achieve their goals
+**Examples**
+* **Manager's Portal**: The hotel managers must have a separate portal from where they can manage their hotel's related information, access data and update it.
+* **User Registration**: New Users should be able to create an account susscessfully.
+* **Search Properties**: Customers shuould be able to seach properties based on certain criteria.
+* **Booking**: Users should be able to book an apartment successfully, view booking details, and manage thier bookings.
+* **Property Listings**: Properties should be displayed with essential details like if available or not.
+* **User Authentication**: Users shuould be successfully logged in only with correct credentials upon sign-up or latter ones if changed.
+
+
+
+### Non-Functional Requirements
+* Non-Functional Requirements define system atributes like performance, security, speed and userbility.
+**Examples**
+* **Performance**: The system should be able to handle 10,000 concurrent users at a time.
+* **Security**: Details like user password should be encrypted
+* **Scalability**: The system should not crash when 10,000 new users sign up or book an apartment simultaneouly
+* **Usability**: Users without technical knowledge should be able to navigate the system with ease.
+* **Maintainability**: The system should be easily maintained even with  a new team of developers.
