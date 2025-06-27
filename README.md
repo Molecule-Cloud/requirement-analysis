@@ -16,7 +16,7 @@ This repository documents my structured learning journey through the requirement
 |Requirement Analysis| The fourth step is where the team checs for feasibility, consistency, conplexity, and cfiniteness of the software. The goal is to finalize a set of requirements that is achievable and aligns with the overall objectives of the project.|
 |Validation and Verification| This final step is where the team comes together to confirm that the requirements actually meet the needs of the stakeholders and verifies that the requirements are documented clearly and consistently.| 
 
-## Why Requirement Analysis?
+## Why Requirement Analysis Important?
 * It prevents costly errors
 * Ensures that developers, clients, and users agree on what is being built.
 * It prevents uncoltrolled feature additions (Reduces Scope Creep).
