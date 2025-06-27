@@ -14,6 +14,6 @@ This repository documents my structured learning journey through the requirement
 |Requirement Documentation| This third step puts together a detailed record of information acquired during the previous step. The team usually creates a document called the SRS(Software Requirement Specifications) to derve asa guide for everyone in the process.|
 |Requirement Analysis| The fourth step is where the team checs for feasibility, consistency, conplexity, and cfiniteness of the software. The goal is to finalize a set of requirements that is achievable and aligns with the overall objectives of the project.|
 |Validation and Verification| This final step is where the team comes together to confirm that the requirements actually meet the needs of the stakeholders and verifies that the requirements are documented clearly and consistently.| 
-
+|------------|--------------|
 ###Why Requirement Analysis
 * 
