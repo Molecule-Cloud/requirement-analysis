@@ -58,6 +58,7 @@ Non-Functional Requirements define system atributes like performance, security, 
 * They provode an outside view of the system
 * They provide a model for the flow of events when it comes to user interactions.
 
+![Booking System Use Case Diagram](./alx-booking-uc.png)
 
 
 ## Acceptance Criteria
