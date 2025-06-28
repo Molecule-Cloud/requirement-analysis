@@ -47,3 +47,26 @@ Non-Functional Requirements define system atributes like performance, security, 
 * **Scalability**: The system should not crash when 10,000 new users sign up or book an apartment simultaneouly
 * **Usability**: Users without technical knowledge should be able to navigate the system with ease.
 * **Maintainability**: The system should be easily maintained even with  a new team of developers.
+
+## Use Case Diagrams
+* Use Case Diagrams are visual representation of the interactions between uers or actors and the system to achive specific goals. Creating a Use Case Diagram involes identifying the potential actors(users), defining the use cases like searching for a property on an airbnb website, annd drawing out the interactions between the actors and the use cases. They do have some similarities with flowcharts but they have more important distict features.
+
+#### Benefits of Use Case Diagrams
+* They provide a clear visual representation of system functionalities
+* They help in identifying and organizing the system's requirements
+* They Facilitate communication among stakeholders and the develpppppopment team.
+* They provode an outside view of the system
+* They provide a model for the flow of events when it comes to user interactions.
+
+
+
+## Acceptance Criteria
+* An acceptance criteria describes the state of a software or product that is deemed acceptble by all stakeholders. They have to be specific and measurable, include functional and non-functional requirements, and meet the requirements of the stakeholders.
+
+#### Benefits
+* It provides a basis for testing anf validation
+* It provides a shared understanding of the software among stakeholders.
+* It ensures accurate development plannning.
+
+#### Example of Acceptance Criteria for a checout page in a booking system.
+* User must be able to select a payment method at checkout.
